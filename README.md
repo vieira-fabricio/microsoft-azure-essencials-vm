@@ -1,6 +1,5 @@
 # Resumo do Lab - Criando Máquinas Virtuais na Azure
-#### Neste lab, exploramos o processo de criação e configuração de Máquinas Virtuais (VMs) no Microsoft Azure. O objetivo deste desafio é consolidar o 
-conhecimento adquirido na prática de criar e gerenciar VMs, um dos principais serviços de computação na nuvem oferecidos pelo Azure.
+#### Neste lab, exploramos o processo de criação e configuração de Máquinas Virtuais (VMs) no Microsoft Azure. O objetivo deste desafio é consolidar o conhecimento adquirido na prática de criar e gerenciar VMs, um dos principais serviços de computação na nuvem oferecidos pelo Azure.
 
 ### O que é uma Máquina Virtual?
 
@@ -64,6 +63,4 @@ Ao usar uma VM no Azure, você pode escalar os recursos de computação conforme
 ---
 
 #### Conclusão
-Durante este lab, aprendemos a criar e configurar máquinas virtuais no Microsoft Azure, o que inclui a escolha de uma imagem de sistema operacional, 
-configuração de rede e gerenciamento de recursos. As VMs são essenciais para hospedar aplicativos e serviços, e o Azure oferece uma plataforma robusta 
-para gerenciá-las de maneira eficiente.
+Durante este lab, aprendemos a criar e configurar máquinas virtuais no Microsoft Azure, o que inclui a escolha de uma imagem de sistema operacional, configuração de rede e gerenciamento de recursos. As VMs são essenciais para hospedar aplicativos e serviços, e o Azure oferece uma plataforma robusta para gerenciá-las de maneira eficiente.
